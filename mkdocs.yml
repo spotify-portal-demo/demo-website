@@ -1,0 +1,8 @@
+site_name: "demo-website"
+site_description: "The marketing website for our demo product"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

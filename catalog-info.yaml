@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demo-website"
+  description: "The marketing website for our demo product"
+  annotations:
+    github.com/project-slug: spotify-portal-demo/demo-website
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/sharks"
