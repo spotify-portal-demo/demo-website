@@ -4,5 +4,5 @@ metadata:
   name: demo-website
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: production
   owner: spotify-portal-demo/sharks
