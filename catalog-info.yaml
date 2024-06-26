@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: demo-website
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production
