@@ -34,18 +34,19 @@ That's it. If you need support, reach out in [#docs-like-code](https://discord.c
 1. point1
 1. point2
 1. point3
-    * `/foo/bar` Baz → QUUX
+   * `/foo/bar` Baz → QUUX
 
-    Examples:
-    * `/a/b/c` UI
-    * `/d/e/f` Microservice  
+   Examples:
+   * `/a/b/c` UI
+   * `/d/e/f` Microservice  
 1. point4
-    * `/foo/bar` Baz → QUUX
+   * `/foo/bar` Baz → QUUX
 
-    Examples:
-    * `/a/b/c` UI
-    * `/d/e/f` Microservice
+   Examples:
+   * `/a/b/c` UI
+   * `/d/e/f` Microservice
+  
 1. point5
-    * https://example.com/foo → Foo
-    * https://example.com/bar → Bar
-    * https://example.com/baz → Baz
+   * https://example.com/foo → Foo
+   * https://example.com/bar → Bar
+   * https://example.com/baz → Baz
