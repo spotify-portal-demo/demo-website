@@ -31,23 +31,11 @@ That's it. If you need support, reach out in [#docs-like-code](https://discord.c
 
 **Bolded text**
 
-1. point1
-1. point2
-1. point3
-   * `/foo/bar` Baz → QUUX
+1. First
+1. Second
+   * Sublist 1
 
-   Examples:
-   * `/a/b/c` UI
-   * `/d/e/f` Microservice
-
-1. point4
-   * `/foo/bar` Baz → QUUX
-
-   Examples:
-   * `/a/b/c` UI
-   * `/d/e/f` Microservice
-
-1. point5
-   * https://example.com/foo → Foo
-   * https://example.com/bar → Bar
-   * https://example.com/baz → Baz
+   Nested body text:
+   * Sublist 2
+   * Sublist 3
+1. Third
