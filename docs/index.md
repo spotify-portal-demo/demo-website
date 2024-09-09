@@ -38,7 +38,8 @@ That's it. If you need support, reach out in [#docs-like-code](https://discord.c
 
    Examples:
    * `/a/b/c` UI
-   * `/d/e/f` Microservice  
+   * `/d/e/f` Microservice
+
 1. point4
    * `/foo/bar` Baz → QUUX
 
