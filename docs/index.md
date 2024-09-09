@@ -37,5 +37,6 @@ That's it. If you need support, reach out in [#docs-like-code](https://discord.c
 
    Nested body text:
    * Sublist 2
-   * Sublist 3
+   * Sublist 3  
+
 1. Third
